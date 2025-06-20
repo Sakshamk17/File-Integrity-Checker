@@ -35,3 +35,10 @@ No extra dependencies (uses standard libraries)
 
 ## Outputs
 
+![Image](https://github.com/user-attachments/assets/4cff522e-84df-4f07-9517-40571d7e21bf)
+
+![Image](https://github.com/user-attachments/assets/0ecd893f-f5d0-4cca-948c-fad7cb12fa8b)
+
+![Image](https://github.com/user-attachments/assets/b0a87527-03d3-4a13-b79a-f51fb1a78cd5)
+
+![Image](https://github.com/user-attachments/assets/5197dbab-4f14-483e-a8fc-a9086d7382dc)
