@@ -1,5 +1,17 @@
 # File-Integrity-Checker
 
+COMPANY: CODTECH IT SOLUTION
+
+NAME: SAKSHAM VIJAY KHOBRAGADE
+
+INTERN ID: CT04DG2805
+
+DOMAIN: CYBER SECURITY & ETHICAL HACKING
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
+
 A simple tool built in Python to monitor changes in files by calculating and comparing their hash values. Useful for ensuring file integrity in cybersecurity contexts.
 
 ## 🧰 Features
